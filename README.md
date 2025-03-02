@@ -49,15 +49,11 @@ Support Vector Regressor (SVR)
 
 🎯 Performance Evaluation
 
-Accuracy (R² Score) in %
+Accuracy (R² Score) 97.48 %
 
-Cross-Validation Score (5-Fold R² in %)
+Cross-Validation Score (5-Fold R² 85.09 %)
 
 🛠️ Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/your-repo/fitness-tracker-analysis.git
 
 Install dependencies:
 
@@ -87,8 +83,5 @@ Deploy the model using Flask or FastAPI
 
 Feel free to fork, create pull requests, or open issues for improvements.
 
-📞 Contact
-
-For queries, contact your-email@example.com or visit the GitHub repo.
 
 🚀 Let's predict fitness tracker prices with data science!
