@@ -71,6 +71,10 @@ Compared multiple regression models to find the best predictor
 
 Used cross-validation to validate the robustness of models
 
+📝 Dashboard
+
+![Image](https://github.com/user-attachments/assets/0ee7e212-6503-4e98-8a78-db939b24f2d1)
+
 📜 Future Scope
 
 Improve model accuracy with feature engineering
